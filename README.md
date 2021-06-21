@@ -4,7 +4,7 @@ a no-brainer base64url
 ### install
 
 ```golang
-  go install https://github.com/namp10010/base64url
+  go install github.com/namp10010/base64url
 ```
 
 ### usage
